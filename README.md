@@ -21,7 +21,13 @@ Build cuda_12.3.r12.3/compiler.33492891_0
 3. pip3 install jupyter
 4. pip3 install torch torchvision torchaudio
 
-**Execute CUDA commands**
+**Launch NoteBook**
 1. activate venv
 2. launch 'jupyter notebook'
-3. open torch_cuda.ipynb at URL provided from step 2
+3. note the Server URL
+4. open torch_cuda.ipynb at URL from browser or from visual studio code
+
+VS Code (ipykernel)
+<!-- ![Image](figures/vs-code-ipykernel.jpg)
+ -->
+[<img src="figures/vs-code-ipykernel.jpg" width="380"/>]()
